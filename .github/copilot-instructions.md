@@ -1,0 +1,4 @@
+- This is a Java Selenium Test Automation Framework using TestNG and Maven.
+- We strictly follow the Page Object Model (POM) design pattern.
+- All locator objects should be maintained in respective Page classes.
+- Use our existing ThreadLocal driver configuration for new test classes.
